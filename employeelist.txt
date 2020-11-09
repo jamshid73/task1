@@ -1,0 +1,10 @@
+name
+id
+phonenumber
+address
+status
+city
+color
+weight
+occupation
+experience
