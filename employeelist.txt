@@ -8,3 +8,8 @@ color
 weight
 occupation
 experience
+current address
+permenant address
+batch
+education
+
